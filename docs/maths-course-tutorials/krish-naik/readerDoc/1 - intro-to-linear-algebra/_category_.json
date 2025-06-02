@@ -1,0 +1,8 @@
+{
+  "label": "Introduction to Linear Algebra",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Understanding the basics of linear algebra and its applications in AI."
+  }
+}
