@@ -1,4 +1,4 @@
-# Maths for Fullstack Data AI (ML,DS,DL) complete documentation, related & reference links of Python
+# Maths for Fullstack Data AI (ML,DS,DL) complete documentation, related & reference links
 
 ## Build technical documentation with [Docusaurus](https://docusaurus.io/)
 
